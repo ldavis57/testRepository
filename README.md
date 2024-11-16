@@ -1,2 +1,2 @@
-# testRepositpry
+# testRepository
 throw-away
